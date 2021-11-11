@@ -4,15 +4,20 @@
    :linenothreshold: 4
 
 
-###################################################
-LINFO1121: Algorithmique et Structures de données
-###################################################
+#############################################
+AQL-M-IFRI: Assurance et QualitŽ de Logiciels
+#############################################
 
 .. toctree::
    :maxdepth: 2
 
    intro/index
    part1/index
+   part2/index
+   part3/index
+   part4/index
+   part5/index
+   part6/index
 
 .. Indices and tables
 .. ==================
